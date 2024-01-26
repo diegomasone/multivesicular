@@ -5,6 +5,6 @@
 
 1) Folder /Example_DPPC contains the initial structure (in Gromacs form) as concentric spheres of a pure DPPC system of ~3,500 lipids and ~150,000 water molecules. Additionally, all files necessary for energy minimization, equilibration, and production are included.
 
-2) Folder /Spheres contains concentric spheres of different sizes and composition.
+2) Folder /Spheres contains geometrically constructed concentric spheres of different size and composition.
    
-3) Folder
+3) Folder /Structures_10us contains structures of different size and composition after 10us of unbiased molecular dynamics.
