@@ -7,4 +7,4 @@
 
 2) Folder /Spheres contains geometrically constructed concentric spheres of different size and composition.
    
-3) Folder /Structures_10us contains structures of different size and composition after 10us of unbiased molecular dynamics.
+3) Folder /Structures_10us contains structures of different size and composition after 10µs of unbiased molecular dynamics.
