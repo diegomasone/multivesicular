@@ -2,7 +2,7 @@
 ## Molecular dynamics of confined multivesicular bodies.
 
 ![DPPC_DOPC_CHOL_black](https://github.com/diegomasone/multivesicular/assets/157829429/c483bd44-a3fc-4f60-94fb-9d4e173570d9)
-Image: cross-section of a multivesicular body.
+Image: cross section of a multivesicular body.
 
 
 1) Folder /Example_DPPC contains the initial structure (in Gromacs format) as concentric spheres of a pure DPPC system of ~3,500 lipids and ~150,000 water molecules. Additionally, all files necessary for energy minimization, equilibration and production MD are included.
