@@ -12,4 +12,5 @@ Image: cross section of a multivesicular body.
 3) Folder /Structures_10us contains structures of different size and composition after 10µs of unbiased molecular dynamics.
 
 
-Please cite: Mayorga, Luis S.; Masone, Diego (2024). "The Secret Ballet Inside Multivesicular Bodies". ACS Nano. 18 (24): 15651-15660. doi:10.1021/acsnano.4c01590
+Please cite: 
+Mayorga, Luis S.; Masone, Diego (2024). "The Secret Ballet Inside Multivesicular Bodies". ACS Nano. 18 (24): 15651-15660. doi:10.1021/acsnano.4c01590
