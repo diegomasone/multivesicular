@@ -13,4 +13,5 @@ Image: cross section of a multivesicular body.
 
 
 Please cite: 
-Mayorga, Luis S.; Masone, Diego (2024). "The Secret Ballet Inside Multivesicular Bodies". ACS Nano. 18 (24): 15651-15660. doi:10.1021/acsnano.4c01590
+Mayorga, Luis S.; Masone, Diego (2024). "The Secret Ballet Inside Multivesicular Bodies". ACS Nano. 18 (24): 15651-15660. https://doi.org/10.1021/acsnano.4c01590
+
